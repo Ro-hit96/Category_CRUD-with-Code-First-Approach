@@ -17,7 +17,7 @@ namespace Category_U_CRUD.Data
                 new Category { Id=1,Name="Mobile",DisplayOrder=12},
                 new Category { Id = 3, Name = "Laptop", DisplayOrder = 12 }
                 );
-        }
+        }   
 
     }
 }
